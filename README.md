@@ -116,4 +116,4 @@ Icons by Font Awesome (MIT) · Fonts by Google Fonts (OFL)
 
 ---
 
-**万太仪器** - 精准测量，值得信赖 🧪⚖️
+**万太仪器** - 精准测量，值得信赖
